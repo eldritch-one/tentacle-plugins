@@ -1,6 +1,6 @@
 # Tentacle Plugins
 
-Official engine and game plugins for [Tentacle](https://www.tentacle.live), the web app that connects your stream's chat, events, and tools into your virtual worlds.
+Official plugins for [Tentacle](https://www.tentacle.live), the web app that connects your stream's chat, events, and tools into your virtual worlds.
 
 Use these plugins to receive chat messages, stream events, custom events, set up custom controls, and more, directly from your project.
 
